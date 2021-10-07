@@ -1,6 +1,6 @@
 #Moment 5
 
-RestAPI
+Detta är en REST-API för att hantera de kurser som Miun tillhandahåller. Här nedan så följer den information som krävs för att konsumera tjänsten.
 
 **To use this REST-API use this URL:**
 https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php
