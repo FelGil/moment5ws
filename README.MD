@@ -6,10 +6,10 @@ Detta är en REST-API för att hantera de kurser som Miun tillhandahåller. Här
 https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php
 
 **REST-Commands:**
-GET - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php
-GET - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php?id=1
-POST - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php '{"code": "DT173G","name": "Webutveckling III","progression": "A","syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22706"}'
-PUT - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php?id=1 '{"code": "DT173G","name": "Webutveckling III","progression": "A","syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22706"}'
+GET - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php\
+GET - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php?id=1\
+POST - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php '{"code": "DT173G","name": "Webutveckling III","progression": "A","syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22706"}'\
+PUT - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php?id=1 '{"code": "DT173G","name": "Webutveckling III","progression": "A","syllabus": "https://www.miun.se/utbildning/kursplaner-och-utbildningsplaner/Sok-kursplan/kursplan/?kursplanid=22706"}'\
 DELETE - https://studenter.miun.se/~fegi2000/writeable/moment5ws/api.php?id=1
 
 
