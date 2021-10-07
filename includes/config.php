@@ -1,6 +1,6 @@
 <?php
 //If devmode or not
-$devMode = false;
+$devMode = true;
 
 
 if($devMode) {
