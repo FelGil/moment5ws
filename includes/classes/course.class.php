@@ -121,7 +121,7 @@ class Course {
     //set method to check if course code meets the number of characters
     public function setCode (string $code) : bool {
         
-        if(strlen($code) === 5) {
+        if(strlen($code) > 1) {
             $this->code = $code;
             return true;
         } else {
